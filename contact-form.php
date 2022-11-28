@@ -1,7 +1,7 @@
 <?php
 // Configure your Subject Prefix and Recipient here
-$subjectPrefix = '[Contact via website]';
-$emailTo       = 'contact@yourr-domain.com';
+$subjectPrefix = '[Contact via Cybersapient.io]';
+$emailTo       = 'noreply@cybersapient.io';
 
 $errors = array(); // array to hold validation errors
 $data   = array(); // array to pass back data
